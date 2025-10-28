@@ -47,3 +47,12 @@ I used [the KT-0805W](https://jlcpcb.com/partdetail/Hubei_KENTOElec-KT0805W/C344
 
 Spent a few hours cleaning up the schematic, adding some resistors I forgot to add, making it look neater, and adding the ESD protector. I wasted most of the time trying to understand the component and trying to come up with how to route it. I'm still confused.  
 
+## 10/28/2025 6 PM - LDO and Crystal changes  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjI1NywicHVyIjoiYmxvYl9pZCJ9fQ==--62dd4d530e1dd94c5b8ed79d8d4d2039bb7e8e87/image.png)
+
+I went over everything, double checking the schematics, reading up on the components, and I was scared away from using the AMS1117. So I swapped it out to a NCP1117 LP. Sure, it's not in the basic library, but an extra 3 loading fee is a lot cheaper than a PCB that does not turn on.
+
+And since the original crystal I picked was already in extended, I might as well swap it out to the exact one used in the RP Pico, so we have on less points of failure.
+I think it's ready for PCB routing.  
+
