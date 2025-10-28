@@ -41,3 +41,9 @@ I used [the KT-0805W](https://jlcpcb.com/partdetail/Hubei_KENTOElec-KT0805W/C344
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--ad8f26820d69a7373c894e4842cd46a08483c945/image.png)
   
 
+## 10/28/2025 5 PM - Schematic improvements + ESP protection  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjIzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--4d1d7e7d1ab7e8c94ffd3ea848092ee5d686ad4d/image.png)
+
+Spent a few hours cleaning up the schematic, adding some resistors I forgot to add, making it look neater, and adding the ESD protector. I wasted most of the time trying to understand the component and trying to come up with how to route it. I'm still confused.  
+
