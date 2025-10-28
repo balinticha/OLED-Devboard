@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/28/2025 - Picked out the components  
+## 10/28/2025 1 AM - Picked out the components  
 
 I spent quite some time looking at available components, these are my choices:
 
@@ -22,5 +22,12 @@ I also spent a good hour staring at the official rp 2040 example board's PCB des
 
 Oh, and I pre-purchased the screen just in case, as I watched it's stock go down from 240 to 40.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--db3dc4ecc3ea2c4af87f85be5b4527a0c1783ca3/image.png)
+  
+
+## 10/28/2025 11 AM - First version of the schematic complete  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--bda49364c648ef2992243d9fba56b7307be421bc/image.png)
+
+It's a bit messy, but it should work. I might change the GPIO pin layouts later depending on their actual physical location on the 2040, and the files are due for a visual cleanup, but that's something to worry about later. 
   
 
