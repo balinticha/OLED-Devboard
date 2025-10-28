@@ -56,3 +56,13 @@ I went over everything, double checking the schematics, reading up on the compon
 And since the original crystal I picked was already in extended, I might as well swap it out to the exact one used in the RP Pico, so we have on less points of failure.
 I think it's ready for PCB routing.  
 
+## 10/28/2025 9 PM - Made the rough PCB layout  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjMzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--3a39f50b33ef129ebcf9847e051750885a5039fd/image.png)
+
+I made the rough PCB layout, assigned the footprints, and changed around a bunch of pins to better fit the physical layout.
+
+Also fixed up every symbol imported from EasyEDA to have proper pin types so ERC can be ran. This took quite some time until I figured it out.
+
+  
+
