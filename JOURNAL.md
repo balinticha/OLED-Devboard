@@ -31,3 +31,13 @@ Oh, and I pre-purchased the screen just in case, as I watched it's stock go down
 It's a bit messy, but it should work. I might change the GPIO pin layouts later depending on their actual physical location on the 2040, and the files are due for a visual cleanup, but that's something to worry about later. 
   
 
+## 10/28/2025 12 PM - Added some LED indicators  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE3NywicHVyIjoiYmxvYl9pZCJ9fQ==--6d2addd5c674bdfe7e04072f527bb028229063f1/image.png)
+
+Added some basic white LED indicators, one for when the board is powered, the other two is controllable by the rp2040, as they might come in handy later.
+
+I used [the KT-0805W](https://jlcpcb.com/partdetail/Hubei_KENTOElec-KT0805W/C34499) leds, as they are in the basic library, and they look pretty cool:
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--ad8f26820d69a7373c894e4842cd46a08483c945/image.png)
+  
+
