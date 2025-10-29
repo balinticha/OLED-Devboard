@@ -66,3 +66,10 @@ Also fixed up every symbol imported from EasyEDA to have proper pin types so ERC
 
   
 
+## 10/29/2025 - PCB Routing - Part 1  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQxMywicHVyIjoiYmxvYl9pZCJ9fQ==--4540da8b12ea84a0887d711c52e3e55f5967c5de/image.png)
+
+Routed the clock, buttons, leds, connectors, the flash, and the LDO. Power delivery and the ground pour is left. And lots of double checking and optimizations.
+  
+
