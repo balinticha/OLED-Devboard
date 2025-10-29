@@ -66,10 +66,20 @@ Also fixed up every symbol imported from EasyEDA to have proper pin types so ERC
 
   
 
-## 10/29/2025 - PCB Routing - Part 1  
+## 10/29/2025 1 AM - PCB Routing - Part 1  
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQxMywicHVyIjoiYmxvYl9pZCJ9fQ==--4540da8b12ea84a0887d711c52e3e55f5967c5de/image.png)
 
 Routed the clock, buttons, leds, connectors, the flash, and the LDO. Power delivery and the ground pour is left. And lots of double checking and optimizations.
+  
+
+## 10/29/2025 2 AM - PCB Routing - Part 2  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQyMywicHVyIjoiYmxvYl9pZCJ9fQ==--b3b860fa3966231cd5832f5efbdf7575cc1f8fe0/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--35056f7bbb1bb4947977b791cd727cffeb68ff4e/image.png)
+
+Completed power delivery and grounding. Still have 38 DRC errors to fix, but it is coming together nicely. I also had to modify the schematic slightly to add some extra resistors for the screen SPIO pins due to their long length
+
   
 
